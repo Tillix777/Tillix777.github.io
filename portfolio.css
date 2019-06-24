@@ -319,7 +319,7 @@ color:snow;
 }
 /*.map-res{
   position:relative;*/
-@media screen and (max-width: 976px) and (max-width:760px) and (max-width: 992px) {
+@media screen and (max-width: 1200px) and (max-width:760px) and (max-width: 992px) {
 .about,.about1,.contact,.intro,.projects,.quote,.pro{
     flex-direction: column ;
     width:100%;
