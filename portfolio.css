@@ -320,8 +320,8 @@ color:snow;
 @media screen and (max-width:600px) and (max-width:760px) and (max-width: 1200px) {
 .about,.about1,.contact,.intro,.projects,.quote,.pro{
     flex-direction: column ;
-    width:100vw;
-    height:100vh; 
+    width:100%;
+    height:100%; 
    
 }
 
