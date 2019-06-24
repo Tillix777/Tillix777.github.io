@@ -316,7 +316,7 @@ color:snow;
   float:right;
 }
 /*.map-res{
-  position:relative;*/
+  position:relative;
 @media screen and (max-width:600px) and (max-width:760px) and (max-width: 1200px) {
 .about,.about1,.contact,.intro,.projects,.quote,.pro{
     flex-direction: column ;
@@ -328,3 +328,4 @@ color:snow;
 
 
   }
+*/
