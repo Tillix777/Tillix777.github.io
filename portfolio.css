@@ -321,7 +321,7 @@ color:snow;
 .about,.about1,.contact,.intro,.projects,.quote,.pro{
     flex-direction: row ;
     width:100%;
-    height:vh; 
+    height:100%; 
    
 }
 
