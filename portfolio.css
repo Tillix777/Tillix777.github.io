@@ -1,6 +1,6 @@
 
 .flex-container{
-    flex-direction:row;
+    flex-direction:column;
     display: flex;
     font-family: 'Indie Flower', cursive;
 
