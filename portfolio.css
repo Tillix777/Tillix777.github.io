@@ -332,7 +332,8 @@ color:snow;
 @media screen and (max-width:992px){
 .pro
 {
-display:block;
+display:inline-block;
+height:100%;
 
 
 }
