@@ -330,8 +330,7 @@ color:snow;
   }
 
 @media screen and (max-width:992px){
-.projects
-{
+.projects,.about,.about1,.contact,.intro{
 
 height:100%;
 
