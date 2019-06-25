@@ -358,6 +358,10 @@ height:100%;}
   
   
   }
+.boxes1,.boxes2{
+flex-shrink:2;
+
+}
 }
 @media screen and (min-width:1025px)
 
