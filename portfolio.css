@@ -317,7 +317,7 @@ color:snow;
 }
 /*.map-res{
   position:relative;*/
-@media screen and (max-width:600px) and (max-width:992px) and (max-width: 1200px) {
+@media screen and (max-width:600px), and (max-width:992px), and (max-width: 1200px) {
 .about,.about1,.contact,.intro,.projects, .quote{
     flex-direction: column ;
     width:100%;
