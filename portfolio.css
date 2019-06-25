@@ -373,7 +373,6 @@ flex-shrink:2;
 .about,.contact,.intro,.projects, .quote{
     flex-direction: column ;
     width:100%;
-    height:100%; 
    
 }
 
