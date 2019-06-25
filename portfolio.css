@@ -320,7 +320,7 @@ color:snow;
 @media screen and (max-width:600px)
 
  {
-.about,.contact,.intro,.projects, .quote,.navbar{
+.about,.contact,.intro,.projects, .quote,.navbar,.nav-link,.nav-main{
     flex-direction: column ;
     width:100%;
     height:100%; 
@@ -340,17 +340,8 @@ color:snow;
   
   }
 
-.nav-link{
-
-margin:15px;
-margin-right:15px;
-color:snow;} 
 
 
-.navbar{
-  background-color: black;
-font-family: 'Indie Flower', cursive;
-font-size: 25px;} 
 
 } 
 @media screen and (min-width:601px){
