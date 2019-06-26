@@ -357,7 +357,8 @@ color:snow;
 }
 .boxes1{
 
-margin-right:15%;
+margin-right:15%
+width:200px;
 }
 .about1,.box{
 display:inline-block;
