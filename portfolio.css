@@ -352,10 +352,13 @@ color:snow;
   border:5px solid snow;
   margin:7px;
   border-radius: 20%;
-margin-right:15%;
+
 
 }
+.boxes1{
 
+margin-right:15%;
+}
 .about1,.box{
 display:inline-block;
 }
