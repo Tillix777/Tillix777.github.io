@@ -94,8 +94,8 @@ margin:auto;}
   border-radius: 20%;
  
 }
-.boxes1{
-  
+.boxes1,.boxes2{
+  float:right;
 }
 .about1{
 display:inline-block;
