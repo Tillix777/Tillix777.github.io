@@ -354,7 +354,7 @@ color:snow;
   border:5px solid snow;
   margin:7px;
   border-radius: 20%;
-
+margin-right:60px;
 
 }
 .boxes1{
@@ -366,6 +366,7 @@ width:;
 .p2,.box{
 color:snow;
 display: inline-block;
+margin-left:45px;
 
 
 }
