@@ -317,7 +317,7 @@ color:snow;
 }
 /*.map-res{
   position:relative;*/
-@media screen and (max-width:599px)
+@media screen and (max-width:600px)
 
 
  {
@@ -349,15 +349,10 @@ color:snow;
   border:5px solid snow;
   margin:7px;
   border-radius: 20%;}
-.{
-float:left;
 
-}
 
-.{
 
-display:block;
-} 
+
 } 
 @media screen and (min-width:601px){
 .about,.projects,.about,.contact,.intro{
