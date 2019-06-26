@@ -352,6 +352,7 @@ color:snow;
   border:5px solid snow;
   margin:7px;
   border-radius: 20%;
+justify-content:left;
 
 }
 
@@ -385,7 +386,7 @@ height:100%;}
   border: 10px solid snow;
   margin:15px;
   border-radius: 20%;
- justify-content:left;
+ 
 }
 
 
