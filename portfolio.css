@@ -1,6 +1,6 @@
 html,body{
 overflow-x:hidden;
-padding:0px;
+
 }
 .flex-container{
     flex-direction:column;
