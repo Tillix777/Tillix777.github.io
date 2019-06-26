@@ -341,7 +341,7 @@ color:snow;
   
 
 
-.box,box1,box2,.box3{
+.box1,.box2,.box3{
 
   width:75px;
   height:75px;
@@ -374,7 +374,16 @@ height:100%;}
   
   
  } 
+.box{
+  width: 150px;
+  height: 150px;
+  border: 10px solid snow;
+  margin:15px;
+  border-radius: 20%;
+ 
 }
+
+
 @media screen and (min-width:1025px)
 
  {
