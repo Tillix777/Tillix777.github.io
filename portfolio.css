@@ -86,7 +86,7 @@ margin:auto;}
     height:660px;
     display: inline-block;
 }
-.box,.box1,.box2,.box3{
+.box{
   width: 150px;
   height: 150px;
   border: 10px solid snow;
@@ -341,7 +341,7 @@ color:snow;
   
 
 
-.box{
+.box,box1,box2,.box3{
 
   width:75px;
   height:75px;
