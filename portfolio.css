@@ -100,7 +100,7 @@ margin:auto;}
 }
 
 }
-.p2,{
+.p2{
 display:inline-block;
 
 }
@@ -364,7 +364,7 @@ width:;
 }
 
 .about1{
-display:block;} 
+display:inline-block;} 
 
 } 
 @media screen and (min-width:601px){
