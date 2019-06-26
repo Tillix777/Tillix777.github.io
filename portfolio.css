@@ -100,8 +100,8 @@ margin:auto;}
 }
 
 }
-.about1{
-display:inline-blocks;
+.about,.box{
+display:inline-block;
 
 }
 .about2{
