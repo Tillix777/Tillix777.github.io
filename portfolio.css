@@ -104,16 +104,20 @@ margin:auto;}
 display:inline-block;
 
 }
-.about1{
+.about2{
  display:inline-block;
- margin-left:;
+ margin-left:250px;
  text-align: center;
  color: snow;
  
  
 
 }
+.about1{
+display:inline-block;
 
+
+}
 
 .hvr-glow:hover{
 
