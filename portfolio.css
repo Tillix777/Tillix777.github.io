@@ -100,7 +100,7 @@ margin:auto;}
 }
 
 }
-.p2,.box {
+.p2,{
 display:inline-block;
 
 }
@@ -113,11 +113,9 @@ display:inline-block;
  
 
 }
-.about1{
-display:inline-block;
 
 
-}
+
 
 .hvr-glow:hover{
 
@@ -365,7 +363,8 @@ margin-right:;
 width:;
 }
 
-
+.about1{
+display:block;
 
 } 
 @media screen and (min-width:601px){
