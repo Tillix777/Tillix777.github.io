@@ -342,7 +342,7 @@ color:snow;
   
 
 
-.boxes1,.boxes2{
+.box{
 
   width:75px;
   height:75px;
@@ -354,7 +354,7 @@ float:left;
 
 }
 
-.about1{
+.{
 
 display:block;
 } 
