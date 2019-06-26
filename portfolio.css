@@ -340,10 +340,15 @@ color:snow;
   
   }
 
+
 .box{
 flex-shrink:2;
 
-
+width: 75px;
+  height: 75px;
+  border: 5px solid snow;
+  margin:7px;
+  border-radius: 20%;}
 } 
 @media screen and (max-width:601px){
 .about,.projects,.about,.contact,.intro{
