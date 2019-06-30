@@ -326,7 +326,7 @@ color:snow;
 
 
  {
-.about,.intro{
+.about{
     
     width:100%;
     height:100%;
@@ -339,6 +339,15 @@ color:snow;
      width:100%;
          padding-bottom:25%;
       
+     
+     }
+     .intro{
+     
+     height:100%;
+     width:100%;
+         padding-bottom:35%;
+      
+     
      
      }
 
