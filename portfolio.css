@@ -326,10 +326,11 @@ color:snow;
 
 
  {
-.about, .quote{
+.about{
     
     width:100%;
-    height:665px; 
+    height:100%;
+    padding-bottom:10%;
    
 }
      .projects,.contact,.intro{
