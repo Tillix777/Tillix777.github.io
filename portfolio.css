@@ -398,6 +398,7 @@ margin-left:45px;
     -o-transform-origin: 0 0;
     -webkit-transform: scale(0.2);
     -webkit-transform-origin: 0 0;
+    zoom="0.5";
     
 
 }
