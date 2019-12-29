@@ -98,11 +98,11 @@ margin:auto;}
 
 }
 .p2{
-
+display:inline-block;
 
 }
 .about2{
- display:inline-block;
+
  margin-left:250px;
  text-align: center;
  color: snow;
