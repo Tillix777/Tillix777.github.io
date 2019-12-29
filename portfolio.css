@@ -115,7 +115,7 @@ display:inline-block;
 
 .hvr-glow:hover{
 
-    display: inline-block;
+    display:block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
@@ -193,7 +193,7 @@ margin-top:75px;
 color:snow;
 margin-left:45px;
 }
-.p2{
+.p2,box{
 margin-left:45px;
 color:snow;
 
