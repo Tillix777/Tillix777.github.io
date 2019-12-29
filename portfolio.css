@@ -203,7 +203,9 @@ color:snow;
 text-align:left;
 
 }
+.p2,boxes1,.boxes2{
 
+display:inline-block;}
 
 .boxes2{
 display:inline-block;
